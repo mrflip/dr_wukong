@@ -43,3 +43,7 @@ pkg
 
 .vendor
 .bundle
+
+.vendor
+.bundle
+Gemfile.lock
